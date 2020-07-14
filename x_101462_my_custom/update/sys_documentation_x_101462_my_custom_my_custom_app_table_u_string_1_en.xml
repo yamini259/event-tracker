@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_string_1" label="New String" language="en" table="x_101462_my_custom_my_custom_app_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_string_1</element>
+            <help/>
+            <hint/>
+            <label>New String</label>
+            <language>en</language>
+            <name>x_101462_my_custom_my_custom_app_table</name>
+            <plural>New Strings</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-09 07:28:14</sys_created_on>
+            <sys_id>9ac649eddb11101097d1560868961919</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>New String</sys_name>
+            <sys_package display_value="My Custom App" source="x_101462_my_custom">7608ff4ddb11101097d15608689619c0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="My Custom App">7608ff4ddb11101097d15608689619c0</sys_scope>
+            <sys_update_name>sys_documentation_x_101462_my_custom_my_custom_app_table_u_string_1_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-09 07:28:14</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
